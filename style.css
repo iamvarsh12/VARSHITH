@@ -1,0 +1,29 @@
+body{
+      font-family: Arial, Helvetica, sans-serif;
+      background-color: white;
+      align-items: center;
+
+      display: flex;
+    }
+    
+    form{
+      width: 300px;
+      gap: 100px;
+      display: flex;
+
+    }
+    .continer{
+      padding: 16px;
+      background-color: white;
+      text-align: center;
+    }
+  .registerbtn{
+    background-color: #04AA6D;
+    color: white;
+    padding: 16px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 50%;
+    opacity: 0.9;
+  }
